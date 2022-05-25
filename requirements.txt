@@ -12,7 +12,7 @@ kombu==4.2.1
 numpy==1.15.4
 pandas==0.23.4
 psycopg2==2.7.6.1
-PyJWT==1.6.4
+PyJWT==2.4.0
 PySocks==1.6.8
 python-crontab==2.3.5
 python-dateutil==2.7.5
